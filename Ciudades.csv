@@ -1,6 +1,7 @@
 100,Bogota,Bogota01,100000
-200,Cali,Cali01,5
-200,Cali,Cali01,5
+200,Cali,Cali01,1500000
+200,Cali,Cali01,2000000
+400,Medellim,Medellin01,100000
 100,Bogota,Bogota01,200000
 100,Bogota,Bogota01,3000000
 300,Buga,Buga01,200
@@ -8,3 +9,5 @@
 100,Bogota,Bogota01,4000000
 300,Buga,Buga01,200
 300,Buga,Buga01,200
+200,Cali,Cali01,500000
+400,Medellim,Medellin01,100000
